@@ -1,0 +1,641 @@
+[14-Feb-2014 22:16:10 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:16:10 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:16:10 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:16:10 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:16:10 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:20:54 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:20:56 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:20:56 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:20:56 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:20:56 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:20:56 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:24:47 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:24:47 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:24:47 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:24:47 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:24:47 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:25:42 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:25:42 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:25:42 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:25:42 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:25:42 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:26:12 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:26:12 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:26:12 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:26:12 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:26:12 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:26:19 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:26:19 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:26:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:26:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:26:19 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:27:03 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:27:03 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:27:03 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:27:03 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:27:03 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:28:25 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:28:25 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:28:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:28:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:28:25 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:28:45 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:28:45 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:28:45 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:28:45 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:28:45 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:29:19 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:29:19 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:29:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:29:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:29:19 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:29:59 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:29:59 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:29:59 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:29:59 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:29:59 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:30:51 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:30:51 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:30:51 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:30:51 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:30:51 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:31:03 America/Los_Angeles] PHP Fatal error:  Class 'Controller' not found in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 3
+[14-Feb-2014 22:31:03 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:31:03 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:31:03 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:31:03 America/Los_Angeles] PHP   3. include() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:250
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 19
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:31:52 America/Los_Angeles] PHP   4. Search->index() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 19
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:32:56 America/Los_Angeles] PHP   4. Search->index() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 19
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:33:09 America/Los_Angeles] PHP   4. Search->index() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 19
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:33:46 America/Los_Angeles] PHP   4. Search->index() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 19
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP Stack trace:
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[14-Feb-2014 22:34:00 America/Los_Angeles] PHP   4. Search->index() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:19 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:23
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:23
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:44:41 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:23
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:45:42 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:23
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:46:40 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:47:49 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:48:21 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:49:47 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:51:35 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:51:56 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 47
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:52:40 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 48
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:53:19 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP Fatal error:  Call to a member function num_rows() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 46
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:54:36 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 49
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:55:04 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 49
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:55:16 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 49
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:56:22 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 49
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 02:59:01 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:00:27 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:01:19 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/locref_model.php on line 49
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:02:11 America/Los_Angeles] PHP   5. Locref_model->getId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:24
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 28
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:06:43 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 28
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:08:21 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 29
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:25 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 29
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:34 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 29
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:12:53 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:19:17 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 9
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:21:09 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 9
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:21:34 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:22:23 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:22:57 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:24:37 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:24:54 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 9
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:25:25 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 9
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:26:25 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP Fatal error:  Call to undefined function getNextId() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:26:47 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 36
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:28:27 America/Los_Angeles] PHP   6. Route_model->_getNextId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php:9
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 37
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:29:23 America/Los_Angeles] PHP   6. Route_model->_getNextId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php:9
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:29:39 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:30:19 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:34:06 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 15
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:34:40 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:35:05 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:12 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:44 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:38:50 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:39:53 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:40:31 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:41:47 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:41:48 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:43:39 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:43:47 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:44:04 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function now() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:44:06 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP Fatal error:  Call to undefined function mdate() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 10
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:45:16 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP Fatal error:  Call to undefined function mdate() in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 16
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP   4. Search->newroute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 03:45:31 America/Los_Angeles] PHP   5. Route_model->addNewRoute() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php:34
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:00:26 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:01:03 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:01:44 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:15 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:27 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:54 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:02:59 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:03:32 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:04:24 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:02 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:11 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:12 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:18 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:05:37 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:06:33 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:27
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 24
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:06:49 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 25
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:07:23 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 25
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:07:44 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 25
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:09:20 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 25
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:09:38 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/models/route_model.php on line 25
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP Stack trace:
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[15-Feb-2014 04:10:25 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
