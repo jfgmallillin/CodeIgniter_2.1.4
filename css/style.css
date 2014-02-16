@@ -128,8 +128,8 @@ clear:both;
     background: white url('wait.gif') right center no-repeat;
 }
 
- #accordion-resizer {
-padding: 10px;
-width: 100px;
-height: 220px;
+#accordion-resizer {
+    padding: 10px;
+    width: 350px;
+    height: 220px;
 }

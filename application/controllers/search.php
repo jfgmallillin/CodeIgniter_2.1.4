@@ -33,6 +33,11 @@ class Search extends CI_Controller {
         $toid=$this->input->get('to');
         $this->route_model->addNewRoute($fromid,$toid);
     }
+    
+    public function suggest_location(){
+        $this->load->model('locsuggestion_model');
+        $this->locsuggestion_model->addLocsuggestion();
+    }
 
 }
 

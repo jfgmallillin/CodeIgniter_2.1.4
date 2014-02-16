@@ -639,3 +639,35 @@
 [15-Feb-2014 04:10:25 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
 [15-Feb-2014 04:10:25 America/Los_Angeles] PHP   4. Findaway->route() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
 [15-Feb-2014 04:10:25 America/Los_Angeles] PHP   5. Route_model->getRouteId() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php:26
+[16-Feb-2014 01:53:25 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:25 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:25 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:25 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:36 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:36 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:36 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:36 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:37 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:37 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:37 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:53:38 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[16-Feb-2014 01:54:19 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/search.php on line 43
+[16-Feb-2014 01:54:19 America/Los_Angeles] PHP Stack trace:
+[16-Feb-2014 01:54:19 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[16-Feb-2014 01:54:19 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202

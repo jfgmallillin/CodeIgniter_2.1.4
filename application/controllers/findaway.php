@@ -22,6 +22,7 @@ class Findaway extends CI_Controller {
         $this->load->model('route_model');
         $this->load->model('suggestion_model');
         $this->load->model('user_model');
+        $this->load->model('comments_model');
 
 
         $from = $this->locref_model->getId($this->input->post('from'));
@@ -31,40 +32,58 @@ class Findaway extends CI_Controller {
             $query = $this->suggestion_model->getAllSuggestions($routeid);
             if($query->num_rows() > 0){
                 $data = array();
-                foreach($query->result() as $row){
-                    $query2 = $this->user_model->getUser($row->USER_ID);
+                foreach($query->result() as $suggestion){
+                    $query2 = $this->user_model->getUser($suggestion->USER_ID);
                     if($query2->num_rows() > 0){
                         foreach ($query2->result() as $user){
-                            $data[] = array('ID'            =>  $row->ID,
-                                            'USERNAME'      =>  $user->username,
-                                            'TITLE'         =>  $row->TITLE,
-                                            'DATE_CREATED'  =>  $row->DATE_CREATED,
-                                            'RATING'        =>  $row->RATING_AVE,
-                                            'CONTENT'       =>  $row->CONTENT);
+                            $commentlist = array();
+                            $comments =  $this->comments_model->getComments($suggestion->ID);
+                            if($comments->num_rows() > 0){
+                                foreach($comments->result() as $comment){
+                                    $commenter = "";
+                                    $commenter_q = $this->user_model->getUser($comment->USER_ID);
+                                    if($commenter_q->num_rows() > 0){
+                                        foreach ($commenter_q->result() as $commenter_r){
+                                            $commenter = $commenter_r->username;
+                                        }
+                                    }
+                                    $commentlist[] = array(
+                                        'USERNAME'      =>  ($commenter == "") ? "anonymous":$commenter,
+                                        'DATE_CREATED'  =>  $comment->DATE_CREATED,
+                                        'CONTENT'       =>  $comment->CONTENT
+                                    );
+                                }
+                            }
+                            $data[] = array(
+                                        'ID'            =>  $suggestion->ID,
+                                        'USERNAME'      =>  $user->username,
+                                        'TITLE'         =>  $suggestion->TITLE,
+                                        'DATE_CREATED'  =>  $suggestion->DATE_CREATED,
+                                        'RATING'        =>  $suggestion->RATING_AVE,
+                                        'CONTENT'       =>  $suggestion->CONTENT,
+                                        'COMMENTS'      =>  json_encode($commentlist)
+                                    );
                         }
                     }
-                    
                 }
+                $data['status'] = array('LOGGED_IN' => $this->session->userdata('logged_in')); 
                 echo json_encode($data);
             }else{
                 //if registered user, create own suggestion for specific route combination
-                echo "<p>No Results Found.</p>" . anchor('#','Suggest?');
-            }
-//            $keyword = "Ban";
-//            $query = $this->locref_model->lookup($keyword); //Search DB
-//            if ($query->num_rows() > 0) {
-//                $data = array();
-//                foreach ($query->result() as $row) {
-//                    $data[] = array('label' => $row->NAME, 'value' => $row->NAME, 'id' => $row->ID . '_' . $row->ID_VARIANT); //Add a row to array
-//                }
-//            } else {
-//                $data = array();
-////            $data[] = array('label' => 'No Results Found', 'value' => 'No Results Found', 'id' => 'No Results Found'); //Add a row to array
-//            }
-//            echo json_encode($data);
+                echo "<p>No Results Found." . anchor('#','Suggest?');
+            } 
         } else {
             //suggest new route combination
-            echo "<p>Route combination not yet available. Send as a suggestion? " . anchor('search/newroute/?from=' . $from . '&to=' . $to, 'yes');
+            if($from == -1 OR $to == -1){
+                if($from == -1){
+                    echo "<p>Input in the FROM field is not yet in our database. Send as a suggestion? " . anchor('search/suggest_location','yes');
+                }
+                if($to == -1){
+                    echo "<p>Input in the TO field is not yet in our database. Send as a suggestion? " . anchor('search/suggest_location','yes');
+                }
+            }else{
+                echo "<p>Route combination not yet available. Send as a suggestion? " . anchor('search/newroute/?from=' . $from . '&to=' . $to, 'yes');
+            }
         }
     }
 

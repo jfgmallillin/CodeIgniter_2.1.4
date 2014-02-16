@@ -6,7 +6,7 @@
         }
         
         public function addSuggestion(){
-            $id = getNextId();
+            $id = $this->_getNextId();
             $data = array(
                 'ID'            =>  $id,  
                 'ROUTE_ID'      =>  $this->input->post('routeid'),
@@ -24,6 +24,19 @@
         public function getAllSuggestions($routeid){
             return $query = $this->db->query("SELECT * FROM SUGGESTION WHERE ROUTE_ID = " . $routeid . 
                     " ORDER BY RATING_AVE DESC, RATING_COUNT DESC, DATE_CREATED DESC");
+        }
+        
+        private function _getNextId() { 
+            $this->db->select_max('ID','IDMAX');
+            $query=$this->db->get('SUGGESTION');
+            if ($query->num_rows() > 0)
+            {
+                foreach ($query->result() as $row){
+                    return ($row->IDMAX + 1);
+                }
+            }else{
+                return 1;
+            }
         }
     }
 ?>

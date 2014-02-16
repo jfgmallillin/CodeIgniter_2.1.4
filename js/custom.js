@@ -53,26 +53,45 @@ $(function() {
 //                                    'RATING'
 //                                    'CONTENT')     
                     var jsonData = JSON.parse(result);
-                    
                     var output = "<div id='accordion-resizer' class='ui-widget-content'>" + 
                                  "<div id='accordion'>";
+                         
+                    var stat = jsonData['status'];
+                    var loggedin = stat['LOGGED_IN'];
+                    alert(loggedin);
                     for (var i in jsonData) {
+                        alert(i);
+                        if(i != 'status'){
                         var row = jsonData[i];
-                        output += "<h3>" + row['TITLE'] + "</h3>" +
+                        output += "<h3><a href='www.google.com'>" + row['TITLE'] + "</a></h3>" +
                                   "<div>" +
                                   "<input id='" + row['ID'] + "' type='text' value='" + row['CONTENT'] + "' style='display:none;'/>" +
-                                  "<p>Created by: " + row['USERNAME'] + "</p>"
+                                  "<p>Created by: " + row['USERNAME'] + "</p>" + 
                                   "<p>Ratings: " + row['RATING'] + "</p>" +
                                   "<p>Date Created: " + row['DATE_CREATED'] + "</p>" +
-                                  "<p>Comments:</p>";
+                                  "<p>Comments:</p>" + 
+                                  row['COMMENTS'];
                                           
                         //star ratings
                         
+                        if(loggedin){
+                            output += "<p>Yes you can post a comment.</p>";
+                        }else{
+                            output += "<p>No you can't post a comment. <a href='user/'>Login</a> in first</p>";
+                        }
                         output += "</div>";
+//                        }else{
+//                            var stat = jsonData['status'];
+//                            loggedin = stat['LOGGED_IN'];
+                        }
 //                        alert(row['label']);
                     }
                     output += "</div>" +
                               "</div>";
+//                    if(loggedin){
+//                    }else{
+//                        output += "<p>No you can't post a comment</p>";
+//                    }
                     $('#SearchOutput').html(output);
 //                    $( "#accordion" ).accordion();
                     $(function() {
