@@ -60,7 +60,6 @@ class Findaway extends CI_Controller {
         $this->load->model('user_model');
         $this->load->model('comments_model');
 
-
         $from = $this->locref_model->getId($this->input->post('from'));
         $to = $this->locref_model->getId($this->input->post('to'));
         $start = $this->input->post('start');
@@ -70,7 +69,6 @@ class Findaway extends CI_Controller {
         
         log_message('ERROR','TEST1: ' . $from . ' ' . $to . ' ' . $start . ' ' . $end);
         if ($routeid != -1) {
-            $query = $this->suggestion_model->getAllSuggestions($routeid);
             $query = $this->suggestion_model->getSuggestions($routeid,$start,$end);
             if($query->num_rows() > 0){
                 $data = array();
