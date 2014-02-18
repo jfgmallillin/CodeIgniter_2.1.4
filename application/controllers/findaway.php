@@ -18,7 +18,6 @@ class Findaway extends CI_Controller {
     }
     
     public function paging($routeid,$from,$to,$start,$end) {
-        log_message('ERROR','TEST2: ' . $from . ' ' . $to . ' ' . $start . ' ' . $end);
         $this->load->model('locref_model');
         $this->load->model('route_model');
         $total = 0;
@@ -38,9 +37,6 @@ class Findaway extends CI_Controller {
                         if($st == $start and $en == $end){
                             $paging[] = array('VALUE' =>   $i);
                         }else{
-//                            $paging[] = array('VALUE'   => anchor('findaway/route/?from=MOA&to=Bangko+Sentral+ng+Pilipinas&start='.$st.'&end='.$en, $i));
-//                            $paging[] = array('VALUE' => anchor("#", $i, array('onclick' => 'this.preventDefault();ajaxComments('.$from.','.$to.','.$st.','.$en.');')));
-//                            $paging[] = array('VALUE' => anchor("findaway/",$i,array('class' => 'page')));
                             $paging[] = array('VALUE' => "<span class='page' onclick=\"ajaxComments('findaway/route/','".$from."','".$to."',".$st.",".$en.");\"  style='cursor:pointer'><u>" . $i . "</u></span>");
                         }
                         $st += 5;
@@ -58,7 +54,6 @@ class Findaway extends CI_Controller {
         $this->load->model('route_model');
         $this->load->model('suggestion_model');
         $this->load->model('user_model');
-        $this->load->model('comments_model');
 
         $from = $this->locref_model->getId($this->input->post('from'));
         $to = $this->locref_model->getId($this->input->post('to'));
@@ -67,42 +62,55 @@ class Findaway extends CI_Controller {
         $routeid = $this->route_model->getRouteId($from, $to);
         $paging = $this->paging($routeid,$this->input->post('from'),$this->input->post('to'),$start, $end);
         
-        log_message('ERROR','TEST1: ' . $from . ' ' . $to . ' ' . $start . ' ' . $end);
         if ($routeid != -1) {
             $query = $this->suggestion_model->getSuggestions($routeid,$start,$end);
             if($query->num_rows() > 0){
                 $data = array();
+//                $commentfirstresult = FALSE;
                 foreach($query->result() as $suggestion){
                     $query2 = $this->user_model->getUser($suggestion->USER_ID);
                     if($query2->num_rows() > 0){
                         foreach ($query2->result() as $user){
-                            $commentlist = array();
-                            $comments =  $this->comments_model->getComments($suggestion->ID);
-                            if($comments->num_rows() > 0){
-                                foreach($comments->result() as $comment){
-                                    $commenter = "";
-                                    $commenter_q = $this->user_model->getUser($comment->USER_ID);
-                                    if($commenter_q->num_rows() > 0){
-                                        foreach ($commenter_q->result() as $commenter_r){
-                                            $commenter = $commenter_r->username;
-                                        }
-                                    }
-                                    $commentlist[] = array(
-                                        'USERNAME'      =>  ($commenter == "") ? "anonymous":$commenter,
-                                        'DATE_CREATED'  =>  $comment->DATE_CREATED,
-                                        'CONTENT'       =>  $comment->CONTENT
-                                    );
-                                }
-                            }
-                            $data[] = array(
-                                        'ID'            =>  $suggestion->ID,
-                                        'USERNAME'      =>  $user->username,
-                                        'TITLE'         =>  $suggestion->TITLE,
-                                        'DATE_CREATED'  =>  $suggestion->DATE_CREATED,
-                                        'RATING'        =>  $suggestion->RATING_AVE,
-                                        'CONTENT'       =>  $suggestion->CONTENT,
-                                        'COMMENTS'      =>  json_encode($commentlist)
-                                    );
+//                            $commentlist = array();
+//                            if(!$commentfirstresult){
+//                                $comments =  $this->comments_model->getComments($suggestion->ID);
+//                                if($comments->num_rows() > 0){
+//                                    foreach($comments->result() as $comment){
+//                                        $commenter = "";
+//                                        $commenter_q = $this->user_model->getUser($comment->USER_ID);
+//                                        if($commenter_q->num_rows() > 0){
+//                                            foreach ($commenter_q->result() as $commenter_r){
+//                                                $commenter = $commenter_r->username;
+//                                            }
+//                                        }
+//                                        $commentlist[] = array(
+//                                            'USERNAME'      =>  ($commenter == "") ? "anonymous":$commenter,
+//                                            'DATE_CREATED'  =>  $comment->DATE_CREATED,
+//                                            'CONTENT'       =>  $comment->CONTENT
+//                                        );
+//                                    }
+//                                }
+//                                $data[] = array(
+//                                            'ID'            =>  $suggestion->ID,
+//                                            'USERNAME'      =>  $user->username,
+//                                            'TITLE'         =>  $suggestion->TITLE,
+//                                            'DATE_CREATED'  =>  $suggestion->DATE_CREATED,
+//                                            'RATING'        =>  $suggestion->RATING_AVE,
+//                                            'CONTENT'       =>  $suggestion->CONTENT,
+//                                            'COMMENTS'      =>  json_encode($commentlist)
+//                                        );
+//                                $commentfirstresult = TRUE;
+//                            }else{
+                                $data[] = array(
+                                            'ID'            =>  $suggestion->ID,
+                                            'USERNAME'      =>  $user->username,
+                                            'TITLE'         =>  $suggestion->TITLE,
+                                            'DATE_CREATED'  =>  $suggestion->DATE_CREATED,
+                                            'RATING'        =>  $suggestion->RATING_AVE,
+                                            'CONTENT'       =>  $suggestion->CONTENT,
+//                                            'COMMENTS'      =>  ""
+                                        );
+//                            }
                         }
                     }
                 }
@@ -129,6 +137,31 @@ class Findaway extends CI_Controller {
             }else{
                 echo "<p>Route combination not yet available. Send as a suggestion? " . anchor('search/newroute/?from=' . $from . '&to=' . $to, 'yes');
             }
+        }
+    }
+    
+    public function comments(){
+        log_message('ERROR',  $this->input->post('SUG_ID'));
+        $this->load->model('comments_model');
+        $this->load->model('user_model');
+        $commentlist = array();
+        $comments =  $this->comments_model->getComments($this->input->post('SUG_ID'));
+        if($comments->num_rows() > 0){
+            foreach($comments->result() as $comment){
+                $commenter = "";
+                $commenter_q = $this->user_model->getUser($comment->USER_ID);
+                if($commenter_q->num_rows() > 0){
+                    foreach ($commenter_q->result() as $commenter_r){
+                        $commenter = $commenter_r->username;
+                    }
+                }
+                $commentlist[] = array(
+                    'USERNAME'      =>  ($commenter == "") ? "anonymous":$commenter,
+                    'DATE_CREATED'  =>  $comment->DATE_CREATED,
+                    'CONTENT'       =>  $comment->CONTENT
+                );
+            }
+            echo json_encode($commentlist);
         }
     }
 

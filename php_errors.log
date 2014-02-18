@@ -685,3 +685,15 @@
 [17-Feb-2014 07:11:09 America/Los_Angeles] PHP Stack trace:
 [17-Feb-2014 07:11:09 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
 [17-Feb-2014 07:11:09 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP Fatal error:  Call to a member function getComments() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 146
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP Stack trace:
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[18-Feb-2014 07:49:53 America/Los_Angeles] PHP   4. Findaway->comments() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP Fatal error:  Call to a member function getUser() on a non-object in /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/application/controllers/findaway.php on line 151
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP Stack trace:
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP   1. {main}() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:0
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP   2. require_once() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/index.php:202
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP   3. call_user_func_array() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
+[18-Feb-2014 07:53:05 America/Los_Angeles] PHP   4. Findaway->comments() /Users/jack/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/barkerph1.1/CodeIgniter_2.1.4/system/core/CodeIgniter.php:359
