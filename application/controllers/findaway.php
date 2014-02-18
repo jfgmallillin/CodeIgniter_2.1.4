@@ -16,6 +16,42 @@ class Findaway extends CI_Controller {
         $this->load->view('fromto');
         $this->load->view('footer_view');
     }
+    
+    public function paging($routeid,$from,$to,$start,$end) {
+        log_message('ERROR','TEST2: ' . $from . ' ' . $to . ' ' . $start . ' ' . $end);
+        $this->load->model('locref_model');
+        $this->load->model('route_model');
+        $total = 0;
+        $paging = array();
+        if ($routeid != -1) {
+            $query = $this->suggestion_model->getSuggestionCount($routeid);
+            if($query->num_rows() > 0){
+                foreach($query->result() as $row){
+                    $total = $row->TOTAL;
+                }
+                if($total > 0){
+                    $ctr = $total / 5;
+                    $i = 1;
+                    $st = 0;
+                    $en = 4;
+                    while($i <= ($ctr + 1)){
+                        if($st == $start and $en == $end){
+                            $paging[] = array('VALUE' =>   $i);
+                        }else{
+//                            $paging[] = array('VALUE'   => anchor('findaway/route/?from=MOA&to=Bangko+Sentral+ng+Pilipinas&start='.$st.'&end='.$en, $i));
+//                            $paging[] = array('VALUE' => anchor("#", $i, array('onclick' => 'this.preventDefault();ajaxComments('.$from.','.$to.','.$st.','.$en.');')));
+//                            $paging[] = array('VALUE' => anchor("findaway/",$i,array('class' => 'page')));
+                            $paging[] = array('VALUE' => "<span class='page' onclick=\"ajaxComments('findaway/route/','".$from."','".$to."',".$st.",".$en.");\"  style='cursor:pointer'><u>" . $i . "</u></span>");
+                        }
+                        $st += 5;
+                        $en += 5;
+                        $i++;
+                    }
+                }
+            }
+        }
+        return $paging;
+    }
 
     public function route() {
         $this->load->model('locref_model');
@@ -27,9 +63,15 @@ class Findaway extends CI_Controller {
 
         $from = $this->locref_model->getId($this->input->post('from'));
         $to = $this->locref_model->getId($this->input->post('to'));
+        $start = $this->input->post('start');
+        $end = $this->input->post('end');
         $routeid = $this->route_model->getRouteId($from, $to);
+        $paging = $this->paging($routeid,$this->input->post('from'),$this->input->post('to'),$start, $end);
+        
+        log_message('ERROR','TEST1: ' . $from . ' ' . $to . ' ' . $start . ' ' . $end);
         if ($routeid != -1) {
             $query = $this->suggestion_model->getAllSuggestions($routeid);
+            $query = $this->suggestion_model->getSuggestions($routeid,$start,$end);
             if($query->num_rows() > 0){
                 $data = array();
                 foreach($query->result() as $suggestion){
@@ -65,6 +107,11 @@ class Findaway extends CI_Controller {
                                     );
                         }
                     }
+                }
+                $i = 1;
+                foreach ($paging as $page){
+                    $data['PAGING' . $i] = $page;
+                    $i++;
                 }
                 $data['status'] = array('LOGGED_IN' => $this->session->userdata('logged_in')); 
                 echo json_encode($data);

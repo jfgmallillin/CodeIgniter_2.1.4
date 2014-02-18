@@ -133,3 +133,12 @@ clear:both;
     width: 350px;
     height: 220px;
 }
+
+.commentlist{
+    border: 1px;
+}
+
+.comment_uname{
+    font-style: italic;
+    font-weight: bold;
+}

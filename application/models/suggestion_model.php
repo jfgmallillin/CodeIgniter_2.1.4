@@ -26,6 +26,15 @@
                     " ORDER BY RATING_AVE DESC, RATING_COUNT DESC, DATE_CREATED DESC");
         }
         
+        public function getSuggestionCount($routeid){
+            return $query = $this->db->query("SELECT COUNT(*) AS TOTAL FROM SUGGESTION WHERE ROUTE_ID = " . $routeid);
+        }
+        
+        public function getSuggestions($routeid, $start,$end){
+            return $query = $this->db->query("SELECT * FROM SUGGESTION WHERE ROUTE_ID = " . $routeid . 
+                    " ORDER BY RATING_AVE DESC, RATING_COUNT DESC, DATE_CREATED DESC LIMIT " . $start . "," . $end);
+        }
+        
         private function _getNextId() { 
             $this->db->select_max('ID','IDMAX');
             $query=$this->db->get('SUGGESTION');
